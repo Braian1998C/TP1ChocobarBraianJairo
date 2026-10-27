@@ -6,5 +6,5 @@
  Get-ExecutionPolicy
  Get-CimInstance
  systeminfo.exe
- 1. Dirección URL de la página:
+ 1. Dirección URL de la página: https://braian1998c.github.io/TP1ChocobarBraianJairo/
     
