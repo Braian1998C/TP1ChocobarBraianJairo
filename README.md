@@ -6,5 +6,5 @@
  Get-ExecutionPolicy
  Get-CimInstance
  systeminfo.exe
- 1. Dirección URL de la página: file:///C:/Users/pc/Desktop/index.html
+ 1. Dirección URL de la página:
     
