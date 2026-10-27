@@ -6,5 +6,5 @@
  Get-ExecutionPolicy
  Get-CimInstance
  systeminfo.exe
- 1. Dirección URL del Repositorio Online:
-https://github.com/Braian1998C/TP1ChocobarBraianJairo
+ 1. Dirección URL de la página: file:///C:/Users/pc/Desktop/index.html
+    
