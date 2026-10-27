@@ -1,0 +1,1 @@
+﻿Clear-Host; Write-Host '--- VERSION DE POWERSHELL ---'; $PSVersionTable.PSVersion; Write-Host '--- CONFIGURACION DE PERMISIVIDAD ---'; Get-ExecutionPolicy; Write-Host '--- EDICION DEL SISTEMA OPERATIVO ---'; (Get-CimInstance Win32_OperatingSystem).Caption; Write-Host '--- INFORMACION DE LA PC (CMD) ---'; systeminfo.exe
